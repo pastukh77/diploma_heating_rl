@@ -174,3 +174,4 @@ poetry.toml
 pyrightconfig.json
 
 data-bms/
+.DS_Store
