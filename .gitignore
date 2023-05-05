@@ -174,4 +174,5 @@ poetry.toml
 pyrightconfig.json
 
 data-bms/
+valve_estimation.py
 .DS_Store
