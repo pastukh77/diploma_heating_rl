@@ -176,3 +176,4 @@ pyrightconfig.json
 data-bms/
 valve_estimation.py
 .DS_Store
+data_exploration.ipynb
