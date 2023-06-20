@@ -124,9 +124,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+# .env
 .venv
-env/
+# env/
 venv/
 ENV/
 env.bak/
@@ -176,4 +176,3 @@ pyrightconfig.json
 data-bms/
 valve_estimation.py
 .DS_Store
-data_exploration.ipynb
